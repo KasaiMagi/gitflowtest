@@ -7,3 +7,5 @@
 
     print 'AMG SOME FUN!';
     print 'some more fun';
+
+    print 'some bug fix';
