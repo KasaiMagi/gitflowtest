@@ -6,3 +6,4 @@
 
 
     print 'AMG SOME FUN!';
+    print 'some more fun';
